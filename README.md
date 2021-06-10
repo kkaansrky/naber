@@ -1,6 +1,5 @@
 # Naber
 Firebase realtime chat app
-* Room example
 * Glide
 * CardView
 * Lifecycle
